@@ -20,7 +20,7 @@ PORT_MYSQL=3306)
 * Ne jamais travailler sur l'original, mais bien sur une copie.
 * Avant de commencer CET exercice, votre ancien projet doit être fonctionnel.
   
-* Il  faut comparer les répertoires entre l'ancien projet et
+* Il faut comparer les répertoires entre l'ancien projet et
   le nouveau, car il y a des fichiers "js" (et autres) 
   à placer dans le répertoire "static" 
   indispensable pour le composant en javascript 
